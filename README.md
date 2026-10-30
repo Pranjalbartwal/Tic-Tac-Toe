@@ -80,7 +80,7 @@ This project helped me understand and practice:
 - Game logic
 - Basic problem-solving
 
-## 🔮 Future Improvements
+ Future Improvements
 
 - Add a graphical user interface (GUI).
 - Add difficulty levels.
