@@ -1,0 +1,3 @@
+str = “Apna College”
+ str[0] is ‘A’, str[1] is ‘p’ ...
+ str[0] = ‘B’
