@@ -1,2 +1,0 @@
-dict={}
-print(dict)
